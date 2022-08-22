@@ -51,12 +51,11 @@ h1 {
     transform: rotate(25deg);
 }
 .circle-check {
-    width:100%;
-    margin: 0 20px;
+    width: auto;
+    margin:0 20%;
     font-size: 100px;
 }
 .circle-check-font {
-    width:100%;
-    margin: 0 20px;
+    font-size: 2rem;
     text-align:center;
 }
