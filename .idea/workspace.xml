@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dba4b01-6664-41df-9d9a-1cecef79e89a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TinDog-Start-master/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TinDog-Start-master/pricing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../My Style - CSS/truecss" beforeDir="false" afterPath="$PROJECT_DIR$/../My Style - CSS/truecss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TinDog-Start-master/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/TinDog-Start-master/carousel.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TinDog-Start-master/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/TinDog-Start-master/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TinDog-Start-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TinDog-Start-master/index.html" afterDir="false" />
     </list>
@@ -49,13 +50,21 @@
       <recent name="C:\Users\hugov\www\html\WebstormProjects\WSBS" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="carousel.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebstormProjects/TinDog-Start-master/carousel.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebstormProjects/TinDog-Start-master/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="pricing.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebstormProjects/TinDog-Start-master/pricing.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.pricing.html" />
+        <item itemvalue="JavaScript Debug.carousel.html" />
       </list>
     </recent_temporary>
   </component>
@@ -70,7 +79,8 @@
       <workItem from="1660654274000" duration="5635000" />
       <workItem from="1660731515478" duration="644000" />
       <workItem from="1660811487564" duration="949000" />
-      <workItem from="1661239509360" duration="16404000" />
+      <workItem from="1661239509360" duration="16558000" />
+      <workItem from="1661327671195" duration="17429000" />
     </task>
     <servers />
   </component>
