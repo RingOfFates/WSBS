@@ -12,8 +12,18 @@ h2 {
 #title{
     background-color:#ff4c68;
     color:#fff;
+    height: 20%;
 }
 
+#features {
+    background-color: #fff;
+    text-align: center;
+    width:100%;
+    padding: 5%;
+    position:relative;
+    z-index: 1;
+
+}
 
 .container{
     padding:5% 10%;
@@ -56,8 +66,12 @@ h1 {
     margin: 5% 3% 5% 0
 }
 .title-image {
-    width:60%;
+    width:20%;
     transform: rotate(25deg);
+    position:absolute;
+
+
+
 }
 .circle-check {
     width: 80%;
@@ -75,18 +89,17 @@ h1 {
     color: #C21010;
 }
 
-.icons-row {
-    padding: 5% 12%;
-}
+/*.icons-row {*/
+/*    padding: 5% 12%;*/
+/*}*/
 
 #testimonials {
     text-align: center;
     background-color: #FF4A4A;
     color: #fff;
 
-
-
 }
+
 
 .testimony-head {
     font-family:"Montserrat", sans-serif;
@@ -99,6 +112,7 @@ h1 {
     width: 10%;
     border-radius: 100%;
     margin: 20px;
+
 }
 
 #press {
@@ -112,11 +126,23 @@ h1 {
 }
 
 .prices {
-    padding-left: 20%;
+    margin:0 auto;
+    padding: 20%;
+    min-width: 100%;
 }
 
 .price-intro {
     text-align: center;
     font-family: "Ubuntu", sans-serif;
 
+
 }
+/*.icon-row {*/
+/*    width:100%;*/
+/*padding:5% 10%;*/
+/*margin: 0 15%;*/
+
+
+/*.col-lg-8 {*/
+/*    padding:0 10%;*/
+/*}*/
