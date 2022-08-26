@@ -126,15 +126,21 @@ h1 {
 }
 
 .prices {
-    margin:0 auto;
+    margin:0 30%;
     padding: 20%;
-    min-width: 100%;
+
 }
 
 .price-intro {
     text-align: center;
     font-family: "Ubuntu", sans-serif;
 
+
+}
+
+price-list {
+    text-align: center;
+    width: 50px;
 
 }
 /*.icon-row {*/
