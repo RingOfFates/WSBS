@@ -13,6 +13,7 @@ h2 {
     background-color:#ff4c68;
     color:#fff;
     height: 20%;
+    text-align: center;
 }
 
 #features {
@@ -24,6 +25,7 @@ h2 {
     z-index: 1;
 
 }
+
 
 .container{
     padding:5% 10%;
@@ -65,13 +67,19 @@ h1 {
 .download-button {
     margin: 5% 3% 5% 0
 }
+
 .title-image {
     width:20%;
     transform: rotate(25deg);
     position:absolute;
+}
 
-
-
+@media (max-width: 991px) {
+    .title-image {
+        position: static;
+        transform: rotate(0);
+        width: 50%;
+    }
 }
 .circle-check {
     width: 80%;
@@ -134,15 +142,10 @@ h1 {
 .price-intro {
     text-align: center;
     font-family: "Ubuntu", sans-serif;
-
-
 }
 
-price-list {
-    text-align: center;
-    width: 50px;
 
-}
+
 /*.icon-row {*/
 /*    width:100%;*/
 /*padding:5% 10%;*/
@@ -152,3 +155,4 @@ price-list {
 /*.col-lg-8 {*/
 /*    padding:0 10%;*/
 /*}*/
+
